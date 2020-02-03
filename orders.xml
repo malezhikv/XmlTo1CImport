@@ -1,0 +1,29 @@
+<Orders>
+	<Order>
+		<OrderId>ИД_заказа</OrderId>
+		<BillingId>Номер_счета</BillingId>
+		<CompanyId>144</CompanyId>
+		<Items>
+			<OrderItem>
+				<Id>ИД_позиции_заказа</Id>
+				<CompanyId>144</CompanyId>
+				<TotalRent>700</TotalRent>
+				<PaymentMethodId>ИД_реквизита_для_оплаты</PaymentMethodId>
+				<BillingSended>06/01/2016 10:10:47</BillingSended>
+				<BillingId>Номер_счета</BillingId>
+				<BilledFrom>05/01/2016 00:00:00</BilledFrom>
+				<BilledTo>05/31/2016 00:00:00</BilledTo>
+				<BilledDays>31</BilledDays>
+				<ActDate>05/31/2016 00:00:00</ActDate>
+				<Name>Оренда віртуального серверу(ів) та/або підключеннь до віддаленого робочого столу</Name>
+				<Price>700</Price>
+				<Amount>1</Amount>
+				<Discount>0</Discount>
+				<TotalPrice>700</TotalPrice>
+				<Rental>700</Rental>
+			</OrderItem>
+			...
+		</Items>
+	</Order>
+ ...
+</Orders>
