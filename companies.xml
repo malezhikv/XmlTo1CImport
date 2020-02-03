@@ -1,0 +1,26 @@
+<Companies>
+  <Company>
+    <Id>9999999</Id>
+    <AddressForCorrespondence>address here</AddressForCorrespondence>
+    <RegisteredAddress>address here</RegisteredAddress>
+    <ContactPhoneNumber>(044) 333-33-33</ContactPhoneNumber>
+    <Name>ТОВ хххх</Name>
+    <EDRPOU>xxxxxxx</EDRPOU>
+    <INN>xxxxxxxx</INN>
+    <NDS>xxxxxxx</NDS>
+    <Discount>0</Discount>
+    <IsActive>True</IsActive>
+    <Created>10/21/2014 17:02:47</Created>
+    <Comment></Comment>
+    <Emails>one@email,two@email</Emails>
+    <SellerId>ИД_продавца</SellerId>
+    <PaymentMethodId>ИД_реквизитов_для_оплаты</PaymentMethodId>
+    <IsLegalPerson>True</IsLegalPerson>
+    <ContractNumber>xxxxxx</ContractNumber>
+    <ContractDate>10/12/2014</ContractDate>
+    <SignedName>ivanov</SignedName>
+    <SignedPost>director</SignedPost>
+    <Represented>директора Иванова О.О.</Represented>
+  </Company>
+...
+</Companies>
