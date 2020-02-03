@@ -1,0 +1,15 @@
+<Payments>
+  <Payment>
+    <Id>ИД_оплаты_внутр</Id>
+    <DatePayment>04/27/2016 12:17:38</DatePayment>
+    <PaymentCreated>04/27/2016 12:17:38</PaymentCreated>
+    <TransactionId>ИД_транзакции_внутр</TransactionId>
+    <Details>Оплата через LiqPay</Details>
+    <SellerId>ИД_продавца</SellerId>
+    <PaymentMethodId>ИД_реквизита_для_оплаты</PaymentMethodId>
+    <CompanyId>ИД_клиента</CompanyId>
+    <Amount>600.00</Amount>
+    <TransactionCreated>04/27/2016 12:17:38</TransactionCreated>
+  </Payment>
+...
+</Payments>
